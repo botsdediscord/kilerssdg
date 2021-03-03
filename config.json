@@ -1,0 +1,9 @@
+{
+  "token": "Nzk4MzIyMDA2ODQzMTk1NDQy.X_zVTg.FXSk0PiYIQUfylfHGQU8j8IQu64",
+  "prefix": ".",
+  "scopes": ["identify", "guilds"],
+  "prompt": "consent",
+  "clientID": "798322006843195442",
+  "clientSecret": "21AEPlobxl5imdieB-TiB1B0GeiAUy3C",
+  "redirectURL": "https://botsdediscord.ml/callback"
+}
